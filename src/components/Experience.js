@@ -13,7 +13,7 @@ function Experience() {
     },
     {
       company: "CodSoft",
-      role: "Web Developer",
+      role: "Artificial Intelligence",
       duration: "Mar 2024 - Apr 2024",
       location: "Remote, India",
       description: " Assisted in the development and implementation of AI models using machine learning algorithms. Collaborated with the AI team to design and train models for various applications. Worked with large datasets to preprocess and analyze data for model training. Implemented data visualization techniques to illustrate model performance. Researched and implemented natural language processing techniques. Participated in code reviews and contributed to the improvement of the codebase. Gained experience with AI frameworks."
